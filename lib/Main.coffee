@@ -4,7 +4,7 @@ module.exports =
      *
      * @var {String}
     ###
-    packageName: 'php-integrator-navigation'
+    packageName: 'php-integrator-navigation-legacy-php56'
 
     ###*
     * @var {HyperclickProviderDispatcher}
